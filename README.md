@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Java**
 
-- 👨‍💻 All of my projects are available at [Soon 🙃](Soon 🙃)
+- 👨‍💻 All of my projects are available at **Soon 🙃**
 
 - 💬 Ask me about **Python**
 
