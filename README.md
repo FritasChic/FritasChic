@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fritaschic&label=Profile%20views&color=0e75b6&style=flat" alt="fritaschic" /> </p>
 
-- 🔭 I’m currently working on **Stitch 'n' co Radio**
+- 🔭 I’m currently working on **ModdedZoo**
 
 - 🌱 I’m currently learning **Java**
 
